@@ -1,0 +1,1024 @@
+//IMPORT BOOTSTRAP ICONS
+//@import url("https:cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+//* {
+//  margin: 0;
+//  padding: 0;
+//  box-sizing: border-box;
+//  scroll-behavior: smooth;
+//  font-family: 'Open Sans', sans-serif;
+//}
+//
+//body {
+//  position: relative;
+//}
+//
+////SCROLL INDICATOR
+////! * The progress container
+//.progress-container {
+//  width: 100%;
+//  height: 4px;
+//  background: #ffffff;
+//  position: absolute;
+//  top: 100%;
+//}
+//
+////!* The progress bar (scroll indicator)  *!
+//.progress-bar {
+//  height: 4px;
+//  border-radius: 0 40px 40px 0;
+//  background: #dc3545;
+//  width: 0;
+//  transition: none;
+//}
+
+//BLOKKEN
+#wat-is-het, #wat-doet-het, #hoe-werkt-het, #voorwaarden, #test-het-zelf, #use-cases, #contact, #footer {
+  overflow: hidden;
+}
+
+
+//HEADINGS
+
+//h2 {
+//  font-size: 35px;
+//  color: #494C5A;
+//  font-weight: bold;
+//}
+
+
+//WAT IS HET BLOK
+//#wat-is-het {
+//  #verbind_whatsapp {
+//    background: #F3F6FA;
+//    overflow: hidden;
+//
+//    #verbind {
+//      img {
+//        transition: all .2s ease-in-out;
+//
+//        &:hover {
+//          transform: translateY(-10px);
+//        }
+//      }
+//    }
+//  }
+//
+//  h2 {
+//    font-weight: 700;
+//    font-size: 1.75rem;
+//  }
+//
+//  p {
+//    font-size: 16px;
+//  }
+//
+//  #gradient {
+//    background: linear-gradient(to right, #F66767, #DC3545);
+//
+//    #intro_one {
+//      position: relative;
+//      width: 100%;
+//      bottom: 100px;
+//      background: linear-gradient(to right, #F66767, #DC3545);
+//      /*height: 250px;*/
+//
+//      p {
+//        margin-top: 2.5%;
+//        font-size: 35px;
+//      }
+//    }
+//  }
+//
+//  #bg_wave {
+//    //background: url("../assets/WatIsHet/wave_under_header_v3.png") no-repeat;
+//    background-size: cover;
+//    margin: 0;
+//    padding: 0;
+//    height: 200px;
+//    z-index: 98;
+//    position: relative;
+//    background-position-x: 25%;
+//  }
+//
+//  #whatsapp_integratie {
+//    img {
+//      width: 100%;
+//
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        transform: translateY(-10px);
+//      }
+//    }
+//
+//    ul {
+//      li {
+//        //list-style-type: "\f633";
+//        list-style-type: none;
+//        //font-display: block;
+//        //font-family: bootstrap-icons;
+//        font-size: 16px;
+//        color: #dc3545;
+//
+//        span {
+//          font-family: 'Open Sans', sans-serif;
+//          font-size: 16px;
+//          //padding-bottom: 2%;
+//        }
+//      }
+//
+//      li::before {
+//        content: "\f633";
+//        font-display: block;
+//        font-family: bootstrap-icons;
+//        font-size: 2rem;
+//        color: #dc3545;
+//      }
+//    }
+//  }
+//
+//  #compare {
+//    background: #F3F6FA;
+//    //height: 100vh;
+//    border-radius: 350px 350px 350px 0;
+//  }
+//
+//  h1 {
+//    font-size: 35px;
+//    font-weight: bold;
+//    line-height: 1.5;
+//  }
+//
+//  .possibilities {
+//    padding: 6.5% 1.5% 1.5% 1.5%;
+//    border-radius: 40px;
+//
+//    transition: all .2s ease-in-out;
+//    background: transparent;
+//
+//
+//    &:hover {
+//      transform: translateY(-10px);
+//      box-shadow: 0 10px 20px rgba(0, 0, 0, .16);
+//      background: #dc3545;
+//      color: #ffffff;
+//    }
+//
+//
+//    h3 {
+//      font-size: 22px;
+//      font-weight: bold;
+//    }
+//  }
+//
+//
+//  /*CIRCLE WITH NUMBER*/
+//  #posibilities {
+//    .social_icon {
+//      margin: 0 auto;
+//      position: absolute;
+//      transition: all .2s ease-in-out;
+//      top: -38%;
+//      left: 35%;
+//
+//      .bi {
+//        position: absolute;
+//        top: 13%;
+//        left: 28%;
+//        z-index: 99;
+//        font-size: 3rem;
+//        color: #ffffff;
+//        transition: all .2s ease-in-out;
+//
+//        &:hover {
+//          cursor: pointer;
+//          background-color: transparent;
+//          text-decoration: none;
+//        }
+//      }
+//
+//      &:hover {
+//        cursor: pointer;
+//        background-color: transparent;
+//        text-decoration: none;
+//
+//        transform: scale(1.1);
+//      }
+//    }
+//  }
+//
+//  #advantages {
+//    background: #F3F6FA;
+//    border-radius: 0 250px 0 0;
+//
+//    .advantage_svg {
+//      position: relative;
+//
+//      p {
+//        font-size: 18px;
+//      }
+//
+//      .bi {
+//        position: absolute;
+//        top: 10%;
+//        left: 1.85%;
+//        font-size: 3rem;
+//        color: #ffffff;
+//      }
+//    }
+//  }
+//
+//  #intro_two {
+//    width: 100%;
+//    background: linear-gradient(to right, #F66767, #DC3545);
+//
+//    p {
+//      font-size: 35px;
+//    }
+//  }
+//
+//
+//  .social_icon {
+//    margin: 0 auto;
+//    position: absolute;
+//    transition: all .2s ease-in-out;
+//    top: -20%;
+//    left: 40%;
+//
+//    .bi {
+//      position: absolute;
+//      //top: 3%;
+//      //left: 33%;
+//      //z-index: 98;
+//      //font-size: 24px;
+//      //color: #ffffff;
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        cursor: pointer;
+//        background-color: transparent;
+//        text-decoration: none;
+//      }
+//    }
+//
+//    &:hover {
+//      cursor: pointer;
+//      background-color: transparent;
+//      text-decoration: none;
+//
+//      transform: scale(1.1);
+//    }
+//  }
+//
+//
+//  #summary_intergation {
+//    .bi, p {
+//      font-size: 18px;
+//    }
+//
+//    .bi {
+//      color: #dc3545;
+//      font-size: 2rem;
+//    }
+//  }
+//}
+
+
+//----------------------------------------------------------------------------------------------------------------------
+//WAT DOET HET BLOK
+
+//#wat-doet-het {
+//  h2 {
+//    font-size: 35px;
+//    font-weight: bold;
+//    line-height: 1.5;
+//  }
+//
+//  /*p {*/
+//  /*font-size: 17px;*/
+//  /*}*/
+//
+//  .two_ways_cards {
+//    background: #ffffff;
+//    padding: 6.5% 1.5% 1.5% 1.5%;
+//    border-radius: 40px;
+//    box-shadow: 0 0 20px rgba(0, 0, 0, .16);
+//    transition: all .2s ease-in-out;
+//
+//    &:hover {
+//      transform: translateY(-10px);
+//      box-shadow: 0 10px 20px rgba(0, 0, 0, .16);
+//    }
+//
+//    h3 {
+//      font-size: 20px;
+//      font-weight: bold;
+//    }
+//
+//    p {
+//      font-size: 14px;
+//      line-height: 1.5
+//    }
+//  }
+//
+//
+//  /*CIRCLE WITH NUMBER*/
+//  .number {
+//    margin: 0 auto;
+//    position: absolute;
+//    transition: all .2s ease-in-out;
+//    top: -15%;
+//    left: 40%;
+//
+//    p {
+//      position: absolute;
+//      top: 3%;
+//      left: 33%;
+//      z-index: 98;
+//      font-size: 24px;
+//      color: #ffffff;
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        cursor: pointer;
+//        background-color: transparent;
+//        text-decoration: none;
+//      }
+//    }
+//
+//    &:hover {
+//      cursor: pointer;
+//      background-color: transparent;
+//      text-decoration: none;
+//
+//      transform: scale(1.1);
+//    }
+//  }
+//
+//
+//  //-------------------------------
+//  //COMMUNCIATIE VERBETEREN
+//  #communicatie_verbeteren {
+//    background: #F3F6FA;
+//    border-radius: 350px 350px 0 0;
+//    //width: 100%;
+//
+//    i {
+//      font-size: 4rem;
+//      color: #dc3545;
+//
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        color: #494C5A;
+//        transform: scale(1.1);
+//      }
+//    }
+//
+//    img {
+//      width: 100%;
+//    }
+//  }
+//
+//
+//  //--------------------------------
+//  //INFO IMAGE WHATSAPP - 3 rows
+//  .image_info_whatsapp {
+//    background: #ffffff;
+//    border-radius: 40px;
+//    padding: 2.5%;
+//    box-shadow: 0 0 20px rgba(0, 0, 0, .16);
+//
+//    transition: all .2s ease-in-out;
+//
+//    &:hover {
+//      transform: translateY(-10px);
+//      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
+//    }
+//  }
+//
+//
+//  #cloud_software {
+//    background: #F3F6FA;
+//    position: relative;
+//
+//    img {
+//      border-radius: 315px 315px 1000px 1000px;
+//      box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .16);
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        transform: translateY(-10px);
+//        box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16);
+//      }
+//    }
+//
+//    img#notis {
+//      clip-path: circle(42% at 51% 58%);
+//      position: absolute;
+//      top: 0;
+//      left: 0;
+//    }
+//
+//    .i {
+//      font-size: 4.5rem;
+//      color: #dc3545;
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        color: #494C5A;
+//      }
+//    }
+//
+//    p {
+//      font-size: 17px;
+//    }
+//
+//    #card {
+//      padding: 2.5% 8%;
+//      background: #ffffff;
+//      border-radius: 40px;
+//      box-shadow: 0 0 20px rgba(0, 0, 0, .16);
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        transform: translateY(-10px);
+//        box-shadow: 0 10px 20px rgba(0, 0, 0, .16);
+//      }
+//    }
+//  }
+//}
+
+//----------------------------------------------------------------------------------------------------------------------
+//HOE WERKT HET BLOK
+
+//#hoe-werkt-het {
+//  #summary_how-it-works {
+//    background-color: rgba(220, 53, 69, .16);
+//  }
+//
+//  h2 {
+//    font-size: 35px;
+//    font-weight: bold;
+//    line-height: 1.5;
+//  }
+//
+//  h3 {
+//    font-weight: bold;
+//  }
+//
+//  p {
+//    font-size: 17px;
+//  }
+//
+//  .options_software {
+//    position: relative;
+//    background: #ffffff;
+//    border-radius: 40px;
+//    padding: 5%;
+//    box-shadow: 0 0 20px rgba(0, 0, 0, 0.16);
+//
+//    transition: all .2s ease-in-out;
+//
+//    &:hover {
+//      transform: translateY(-10px);
+//      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
+//    }
+//
+//    .svg_check {
+//      position: absolute;
+//      top: -15%;
+//      left: -8%;
+//
+//      transition: all .2s ease-in-out;
+//
+//      &:hover {
+//        cursor: pointer;
+//        background-color: transparent;
+//        text-decoration: none;
+//
+//        transform: scale(1.1);
+//      }
+//
+//      .bi {
+//        font-size: 2.5rem;
+//        color: #dc3545;
+//        position: absolute;
+//      }
+//
+//      .bi-send-check {
+//        top: 22%;
+//        left: 26%;
+//      }
+//
+//      .bi-envelope-at {
+//        top: 20%;
+//        left: 30%;
+//      }
+//
+//      .bi-code-slash {
+//        top: 20%;
+//        left: 29%;
+//      }
+//    }
+//  }
+//}
+
+//----------------------------------------------------------------------------------------------------------------------
+//VOORWAARDEN BLOK
+
+//#voorwaarden {
+//  //background: #F3F6FA;
+//  background: #ffffff;
+//  border-radius: 0 0 0 250px;
+//  /*------------------------------------*/
+//  .accordion {
+//    margin-bottom: 20px;
+//
+//    //.accordion-icon-transition-enter-active,
+//    //.accordion-icon-transition-leave-active {
+//    //  transition: transform 0.3s;
+//    //}
+//    //
+//    //
+//    //.accordion-icon-transition-enter {
+//    //  transform: rotate(180deg);
+//    //}
+//    //
+//    //.accordion-icon-transition-leave-to {
+//    //  transform: rotate(0deg);
+//    //}
+//
+//
+//    i {
+//      margin-right: 2.5%;
+//    }
+//
+//    .terms-item {
+//      //.accordion-item {
+//      margin-bottom: 20px;
+//    }
+//
+//    .terms-content {
+//      //background-color: #f9f9f9;
+//      border-radius: 0 0 10px 10px;
+//      background-color: #ffffff;
+//      box-shadow: 0 0 10px rgba(0, 0, 0, 0.16);
+//      padding: 10px;
+//      overflow: hidden;
+//      line-height: 1.8;
+//      //transition: max-height 0.2s;
+//
+//      p {
+//        margin: 0;
+//        font-size: 14px;
+//      }
+//    }
+//
+//    button {
+//      /*background-color: #f2f2f2;*/
+//      background-color: #ffffff;
+//      box-shadow: 0 0 10px rgba(0, 0, 0, 0.16);
+//      border: none;
+//      border-radius: 10px;
+//      color: #333;
+//      padding: 10px;
+//      //margin-bottom: 5px;
+//      cursor: pointer;
+//      width: 100%;
+//      text-align: left;
+//      //transition: background-color .2s ease-in-out;
+//      transition: all .2s ease-in-out;
+//      display: flex;
+//      justify-content: space-between;
+//      align-items: center;
+//
+//
+//      &:hover {
+//        background-color: #dc3545;
+//        color: #ffffff;
+//      }
+//
+//      &.active {
+//        background-color: #dc3545;
+//        color: #fff;
+//        border-radius: 10px 10px 0 0;
+//      }
+//    }
+//  }
+//
+//  /*---------------------------------------------------*/
+//  .show-more {
+//    text-align: center;
+//    margin-top: 10px;
+//    border-radius: 10px;
+//    //background: rgb(220,53,69);
+//    background: #dc3545;
+//    //background: -moz-linear-gradient(0deg, rgba(220,53,69,1) 0%, rgba(220,53,69,0) 100%);
+//    //background: -webkit-linear-gradient(0deg, rgba(220,53,69,1) 0%, rgba(220,53,69,0) 100%);
+//    //background: linear-gradient(0deg, rgba(220,53,69,1) 0%, rgba(220,53,69,0) 100%);
+//    //filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#dc3545",endColorstr="#dc3545",GradientType=1);
+//    //width: 25%;
+//  }
+//
+//  .show-more button {
+//    //background-color: transparent;
+//    //border: none;
+//    color: #ffffff;
+//    cursor: pointer;
+//    font-size: 14px;
+//    justify-content: center;
+//  }
+//}
+
+//----------------------------------------------------------------------------------------------------------------------
+//TEST HET ZELF BLOK
+//#testHetZelf_wave {
+//  background: url("src/assets/TestHetZelf/TestHetZelf_wave.png") no-repeat;
+//  //background-size: cover;
+//  margin: 0;
+//  padding: 0;
+//  //height: 210px;
+//  height: 120px;
+//  z-index: 98;
+//  position: relative;
+//  //background-position-x: 25%;
+//}
+//
+//#test-het-zelf {
+//  background: #F3F6FA;
+//
+//  h2 {
+//    font-size: 2.5rem;
+//    font-weight: bold;
+//
+//    span {
+//      color: #dc3545;
+//    }
+//  }
+//
+//
+//  #qr {
+//    width: 75%;
+//    padding: 1%;
+//    border: 5px solid transparent;
+//    border-radius: 10px;
+//    background: #ffffff;
+//
+//    transition: all .2s ease-in-out;
+//
+//    &:hover {
+//      transform: scale(1.05);
+//      box-shadow: 0 0 20px rgba(0, 0, 0, 0.16);
+//    }
+//  }
+//
+//  #steps {
+//    /* Stijl voor het containerblok */
+//    .container {
+//      //max-width: 800px;
+//      //margin: 20px auto;
+//      //background-color: #F3F6FA;
+//      //border: 1px solid #ccc;
+//      //border-radius: 5px;
+//      //padding: 20px;
+//    }
+//
+//    img {
+//      width: 100%;
+//    }
+//
+//    /* Stijl voor de stappen */
+//    .step {
+//      display: flex;
+//      align-items: center;
+//      margin-bottom: 20px;
+//    }
+//
+//    /* Stijl voor het stapnummer */
+//    .step .step-number {
+//      padding: 18px;
+//      width: 30px;
+//      height: 30px;
+//      border-radius: 50%;
+//      background-color: #CCCCCC;
+//      color: #fff;
+//      font-weight: bold;
+//      font-size: 1.5rem;
+//      display: flex;
+//      align-items: center;
+//      justify-content: center;
+//      border: 5px solid #ffffff;
+//
+//      transition: transform .2s ease-in-out;
+//
+//      &:hover {
+//        transform: scale(1.15);
+//      }
+//    }
+//
+//    /* Stijl voor de stapinhoud */
+//    .step .step-content {
+//      margin-left: 20px;
+//      font-size: 1.15rem;
+//
+//      .active {
+//        margin-left: 20px;
+//      }
+//    }
+//
+//    /* Stijl voor de staptekst */
+//    .step .step-text {
+//      font-weight: bold;
+//      font-size: 18px;
+//    }
+//
+//    /* Stijl voor de stapbeschrijving */
+//    .step .step-description {
+//      color: #666;
+//    }
+//
+//    /* Stijl voor de actieve stap */
+//    .step.active .step-number {
+//      background-color: #dc3545;
+//      padding: 23px;
+//      border: 5px solid #ffffff;
+//      color: #ffffff;
+//      font-size: 1.5rem;
+//      //border: 2px solid #333;
+//    }
+//
+//    ///* Stijl voor de verticale lijnen */
+//    //  .step:not(:last-child)::after {
+//    //    content: '';
+//    //    position: absolute;
+//    //    top: 30px;
+//    //    left: 15px;
+//    //    width: 2px;
+//    //    height: calc(100% - 30px);
+//    //    background-color: #ccc;
+//    //  }
+//  }
+//
+//  #pricecalc {
+//    overflow: hidden;
+//    height: 80vh;
+//    background-color: #ffffff;
+//
+//    svg {
+//      //display: none;
+//      position: relative;
+//      right: -10%;
+//      top: -32%;
+//      z-index: -1;
+//    }
+//
+//    #pricecalc_section {
+//      hr {
+//        height: 5px;
+//        background: #ffffff;
+//        border-radius: 40px;
+//        width: 90%;
+//      }
+//
+//      #calc {
+//        margin-top: -10%;
+//        margin-left: 40%;
+//        width: 80%;
+//      }
+//
+//      position: relative;
+//      z-index: 1;
+//
+//      label[for=country] {
+//        font-size: 30px;
+//        color: #ffffff;
+//        font-weight: bold;
+//        margin-left: 2.5%;
+//      }
+//
+//      label[for=aantal], label[for=select] {
+//        font-size: 20px;
+//        font-weight: bold;
+//        color: #ffffff;
+//      }
+//
+//      input {
+//        border: none;
+//        padding: 5% 0;
+//        border-radius: 10px;
+//        width: 80%;
+//        text-indent: 10px;
+//      }
+//
+//      select.btn {
+//        width: 80%;
+//        padding: 5% 0 5% 5%;
+//        border-radius: 10px;
+//      }
+//
+//      option {
+//        background: #ffffff;
+//        color: #000000;
+//        text-align: left;
+//      }
+//
+//      #calculated p {
+//        color: #ffffff;
+//        margin: 0;
+//        padding: 0;
+//      }
+//
+//      //#pricecalc_section {
+//      //  input#aantal {
+//      //    padding: 2.5% 5%;
+//      //    background: red;
+//      //  }
+//      //
+//      //
+//      //
+//      //  //position: relative;
+//      //}
+//
+//    }
+//  }
+//
+//  /*#pricecalc_section {*/
+//  /*  background: #dc3545;*/
+//  /*  border-radius: 50%;*/
+//  /*}*/
+//}
+//
+////#test-het-zelf {
+////  #pricecalc {
+////    height: 80vh;
+////  }
+////}
+
+//----------------------------------------------------------------------------------------------------------------------
+//FOOTER COMPONENT
+//#footer {
+//  background: #282F3A;
+//  padding: 0;
+//
+//  ul {
+//    border: none;
+//  }
+//
+//  .dropdown {
+//    position: relative;
+//    display: inline-block;
+//    border: none;
+//    //background: green;
+//
+//    //transition: all .2s ease-in-out;
+//  }
+//
+//  .dropdown-toggle {
+//    color: #ffffff;
+//    padding: 8px 12px;
+//    border: none;
+//    cursor: pointer;
+//    //background: blue;
+//
+//    //position: relative;
+//    //display: inline-block;
+//  }
+//
+//  .dropdown-menu {
+//    display: none;
+//    position: absolute;
+//    //background-color: #f9f9f9;
+//    min-width: 160px;
+//    //box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+//    z-index: 1;
+//    border: none;
+//    //background: yellow;
+//  }
+//
+//  .dropdown-item a {
+//    color: #ffffff;
+//    padding: 12px 16px;
+//    text-decoration: none;
+//    display: block;
+//    border: none;
+//    //background: orangered;
+//  }
+//
+//  .dropdown:hover .dropdown-menu {
+//    display: block;
+//    background: transparent;
+//    border: none;
+//  }
+//
+//  #navigate {
+//    a {
+//      color: #ffffff;
+//    }
+//
+//    ul {
+//      list-style-type: none;
+//      margin: 0;
+//      padding: 0;
+//    }
+//  }
+//
+//  img {
+//    width: 20%;
+//  }
+//
+//  #tacho {
+//    position: relative;
+//    color: #ffffff;
+//    font-weight: 400;
+//    margin-left: 12%;
+//
+//    &::before {
+//      position: absolute;
+//      left: -28px;
+//      top: -5px;
+//      font-family: FontAwesome;
+//      color: #ffffff;
+//      font-size: 20px;
+//      content: "\f3fd";
+//    }
+//  }
+//
+//  #contact_footer {
+//    //display: flex;
+//    //justify-content: center;
+//    p {
+//      color: #ffffff;
+//      font-weight: 700;
+//      font-size: 14px;
+//    }
+//
+//    a {
+//      //margin: 0 5.6%;
+//
+//      p:nth-child(1) {
+//        position: relative;
+//        color: #a0a8b5;
+//        font-weight: 400;
+//        margin-left: 12%;
+//
+//        &::before {
+//          position: absolute;
+//          left: -28px;
+//          top: -5px;
+//          font-family: FontAwesome;
+//          color: #a0a8b5;
+//          font-size: 20px;
+//        }
+//      }
+//
+//      p#tel::before {
+//        content: "\f879";
+//      }
+//
+//      p.send::before {
+//        content: "\f1d8";
+//      }
+//    }
+//  }
+//
+//  #bt-footer {
+//    background: #252B36;
+//    width: 100%;
+//
+//    p {
+//      margin-top: .25%;
+//    }
+//
+//    a {
+//      color: #ffffff;
+//      font-size: 16px;
+//
+//      &:hover {
+//        text-decoration: none;
+//      }
+//    }
+//
+//    ul {
+//      display: flex;
+//      list-style-type: none;
+//      margin-top: .25%;
+//      font-size: 12px;
+//
+//
+//      li {
+//        //  display: inline-block;
+//        margin: 0 1%;
+//        //
+//        //  &:nth-child(2)::before, &:nth-child(3)::before, &:nth-child(4)::before {
+//        //    content: '•';
+//        //    margin-right: 2.5%;
+//        //  }
+//        a {
+//          font-size: 12px;
+//        }
+//      }
+//    }
+//  }
+//}

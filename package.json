@@ -1,0 +1,39 @@
+{
+  "name": "landingspagina-whatsapp-smstools",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scssprod": "node-sass -o css src/scss/main.scss",
+    "scssdev": "node-sass -o css src/scss/main.scss --watch",
+    "scssrun": "node-sass -o src/css src/scss --watch"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap-icons": "^1.10.5",
+    "flag-icon-css": "^4.1.7",
+    "pinia": "^2.0.32",
+    "vue": "^3.2.47",
+    "vue-tel-input": "^8.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.60.0",
+    "vite": "^4.1.4"
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShanaTuyaertsPXL/Landingspagina_WhatsApp_Smstools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShanaTuyaertsPXL/Landingspagina_WhatsApp_Smstools/issues"
+  },
+  "homepage": "https://github.com/ShanaTuyaertsPXL/Landingspagina_WhatsApp_Smstools#readme"
+}

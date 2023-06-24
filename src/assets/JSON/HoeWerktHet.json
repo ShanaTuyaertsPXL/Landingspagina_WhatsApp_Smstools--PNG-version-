@@ -1,0 +1,21 @@
+{
+  "title_combineerWhatsApp": "Combineer WhatsApp met onze handige software",
+  "image": "combineer_software.webp",
+  "combineerSoftware": {
+    "1": {
+      "icon": "bi bi-send-check",
+      "title": "Geautomatiseerde berichten",
+      "description": "Stel automatische antwoorden in op basis van inkomende berichten en bespaar tijd. Het stelt je in staat om snel en efficiënt te communiceren met je contacten, zelfs als je niet beschikbaar bent."
+    },
+    "2": {
+      "icon": "bi bi-envelope-at",
+      "title": "Inbox automatiseren",
+      "description": "Stuur al je inkomende berichten eenvoudig door naar je inbox. Het is een handige manier om al je berichten op één plek te hebben. Het proces is eenvoudig en kan worden gedaan met de meeste e-mailproviders."
+    },
+    "3": {
+      "icon": "bi bi-code-slash",
+      "title": "Ontwikkelaarsvriendelijk",
+      "description": "Onze developer ready API & webhooks bieden eenvoudige integratie aan, gecombineerd met SMS berichten. Het is een krachtige tool waarmee ontwikkelaars SMS-functies naadloos kunnen integreren in hun applicaties of websites."
+    }
+  }
+}

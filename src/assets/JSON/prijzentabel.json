@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "af",
+    "country": "Afghanistan",
+    "price_sms": "0.065",
+    "flag": "flag-afghanistan"
+  },
+  {
+    "id": "al",
+    "country": "Albanië",
+    "price_sms": "0.070",
+    "flag": "flag-albania"
+  },
+  {
+    "id": "dz",
+    "country": "Algerije",
+    "price_sms": "0.060",
+    "flag": "flag-algeria"
+  },
+  {
+    "id": "as",
+    "country": "Amerikaans Samoa",
+    "price_sms": "0.005",
+    "flag": "flag-american-samoa"
+  },
+  {
+    "id": "vi",
+    "country": "Amerikaanse Maagdeneilanden",
+    "price_sms": "0.005",
+    "flag": "flag-us-virgin-islands"
+  },
+  {
+    "id": "ad",
+    "country": "Andorra",
+    "price_sms": "0.010",
+    "flag": "flag-andorra"
+  },
+  {
+    "id": "ao",
+    "country": "Angola",
+    "price_sms": "0.040",
+    "flag": "flag-angola"
+  },
+  {
+    "id": "ai",
+    "country": "Anguilla",
+    "price_sms": "0.005",
+    "flag": "flag-anguilla"
+  },
+  {
+    "id": "ag",
+    "country": "Antigua en Barbuda",
+    "price_sms": "0.005",
+    "flag": "flag-antigua"
+  },
+  {
+    "id": "ar",
+    "country": "Argentinië",
+    "price_sms": "0.045",
+    "flag": "flag-argentina"
+  },
+  {
+    "id": "am",
+    "country": "Armenië",
+    "price_sms": "0.060",
+    "flag": "flag-armenia"
+  },
+  {
+    "id": "aw",
+    "country": "Aruba",
+    "price_sms": "0.030",
+    "flag": "flag-aruba"
+  },
+  {
+    "id": "au",
+    "country": "Australië",
+    "price_sms": "0.035",
+    "flag": "flag-australia"
+  },
+  {
+    "id": "bs",
+    "country": "Bahamas",
+    "price_sms": "0.005",
+    "flag": "flag-bahamas"
+  },
+  {
+    "id": "bh",
+    "country": "Bahrain",
+    "price_sms": "0.010",
+    "flag": "flag-bahrain"
+  },
+  {
+    "id": "bd",
+    "country": "Bangladesh",
+    "price_sms": "0.015",
+    "flag": "flag-bangladesh"
+  },
+  {
+    "id": "bb",
+    "country": "Barbados",
+    "price_sms": "0.005",
+    "flag": "flag-barbados"
+  },
+  {
+    "id": "be",
+    "country": "België",
+    "price_sms": "0.060",
+    "flag": "flag-belgium"
+  },
+  {
+    "id": "bz",
+    "country": "Belize",
+    "price_sms": "0.005",
+    "flag": "flag-belize"
+  },
+  {
+    "id": "bj",
+    "country": "Benin",
+    "price_sms": "0.040",
+    "flag": "flag-benin"
+  },
+  {
+    "id": "bm",
+    "country": "Bermuda",
+    "price_sms": "0.005",
+    "flag": "flag-bermuda"
+  },
+  {
+    "id": "bt",
+    "country": "Bhutan",
+    "price_sms": "0.030",
+    "flag": "flag-bhutan"
+  },
+  {
+    "id": "bo",
+    "country": "Bolivië",
+    "price_sms": "0.040",
+    "flag": "flag-bolivia"
+  },
+  {
+    "id": "ba",
+    "country": "Bosnië Herzegovina",
+    "price_sms": "0.060",
+    "flag": "flag-bosnia"
+  },
+  {
+    "id": "bw",
+    "country": "Botswana",
+    "price_sms": "0.070",
+    "flag": "flag-botswana"
+  },
+  {
+    "id": "br",
+    "country": "Brazilië",
+    "price_sms": "0.035",
+    "flag": "flag-brazil"
+  },
+  {
+    "id": "vg",
+    "country": "Britse Maagdeneilanden",
+    "price_sms": "0.005",
+    "flag": "flag-british-virgin-islands"
+  },
+  {
+    "id": "bg",
+    "country": "Bulgarije",
+    "price_sms": "0.070",
+    "flag": "flag-bulgaria"
+  },
+  {
+    "id": "bf",
+    "country": "Burkina Faso",
+    "price_sms": "0.025",
+    "flag": "flag-burkina-faso"
+  },
+  {
+    "id": "bi",
+    "country": "Burundi",
+    "price_sms": "0.060",
+    "flag": "flag-burundi"
+  },
+  {
+    "id": "cm",
+    "country": "Cameroon",
+    "price_sms": "0.065",
+    "flag": "flag-cameroon"
+  },
+  {
+    "id": "ca",
+    "country": "Canada",
+    "price_sms": "0.005",
+    "flag": "flag-canada"
+  },
+  {
+    "id": "cf",
+    "country": "Central African Republic",
+    "price_sms": "0.010",
+    "flag": "flag-central-african-republic"
+  },
+  {
+    "id": "td",
+    "country": "Chad",
+    "price_sms": "0.055",
+    "flag": "flag-chad"
+  },
+  {
+    "id": "ci",
+    "country": "Ivoorkust",
+    "price_sms": "0.055",
+    "flag": "flag-cote-divoire"
+  },
+  {
+    "id": "co",
+    "country": "Colombia",
+    "price_sms": "0.025",
+    "flag": "flag-colombia"
+  },
+  {
+    "id": "cr",
+    "country": "Costa Rica",
+    "price_sms": "0.030",
+    "flag": "flag-costa-rica"
+  },
+  {
+    "id": "cu",
+    "country": "Cuba",
+    "price_sms": "0.050",
+    "flag": "flag-cuba"
+  },
+  {
+    "id": "cy",
+    "country": "Cyprus",
+    "price_sms": "0.060",
+    "flag": "flag-cyprus"
+  },
+  {
+    "id": "dk",
+    "country": "Denemarken",
+    "price_sms": "0.020",
+    "flag": "flag-denmark"
+  },
+  {
+    "id": "dm",
+    "country": "Dominica",
+    "price_sms": "0.005",
+    "flag": "flag-dominica"
+  },
+  {
+    "id": "do",
+    "country": "Dominicaanse Republiek",
+    "price_sms": "0.005",
+    "flag": "flag-dominican-republic"
+  },
+  {
+    "id": "de",
+    "country": "Duitsland",
+    "price_sms": "0.065",
+    "flag": "flag-germany"
+  },
+  {
+    "id": "ec",
+    "country": "Ecuador",
+    "price_sms": "0.050",
+    "flag": "flag-ecuador"
+  },
+  {
+    "id": "eg",
+    "country": "Egypte",
+    "price_sms": "0.040",
+    "flag": "flag-egypt"
+  },
+  {
+    "id": "sv",
+    "country": "El Salvador",
+    "price_sms": "0.030",
+    "flag": "flag-el-salvador"
+  },
+  {
+    "id": "gq",
+    "country": "Equatoriaal-Guinea",
+    "price_sms": "0.020",
+    "flag": "flag-equatorial-guinea"
+  },
+  {
+    "id": "ee",
+    "country": "Estland",
+    "price_sms": "0.060",
+    "flag": "flag-estonia"
+  },
+  {
+    "id": "et",
+    "country": "Ethiopië",
+    "price_sms": "0.050",
+    "flag": "flag-ethiopia"
+  },
+  {
+    "id": "ph",
+    "country": "Filipijnen",
+    "price_sms": "0.030",
+    "flag": "flag-philippines"
+  },
+  {
+    "id": "fi",
+    "country": "Finland",
+    "price_sms": "0.060",
+    "flag": "flag-finland"
+  },
+  {
+    "id": "fr",
+    "country": "Frankrijk",
+    "price_sms": "0.050",
+    "flag": "flag-france"
+  },
+  {
+    "id": "gf",
+    "country": "Frans Guyana",
+    "price_sms": "0.060",
+    "flag": "flag-french-guiana"
+  },
+  {
+    "id": "ga",
+    "country": "Gabon",
+    "price_sms": "0.040",
+    "flag": "flag-gabon"
+  },
+  {
+    "id": "gm",
+    "country": "Gambia",
+    "price_sms": "0.010",
+    "flag": "flag-gambia"
+  },
+  {
+    "id": "ge",
+    "country": "Georgië",
+    "price_sms": "0.070",
+    "flag": "flag-georgia"
+  },
+  {
+    "id": "gh",
+    "country": "Ghana",
+    "price_sms": "0.035",
+    "flag": "flag-ghana"
+  },
+  {
+    "id": "gi",
+    "country": "Gibraltar",
+    "price_sms": "0.010",
+    "flag": "flag-gibraltar"
+  },
+  {
+    "id": "gd",
+    "country": "Grenada",
+    "price_sms": "0.005",
+    "flag": "flag-grenada"
+  },
+  {
+    "id": "gr",
+    "country": "Griekenland",
+    "price_sms": "0.040",
+    "flag": "flag-greece"
+  },
+  {
+    "id": "gl",
+    "country": "Groenland",
+    "price_sms": "0.020",
+    "flag": "flag-greenland"
+  },
+  {
+    "id": "gp",
+    "country": "Guadeloupe",
+    "price_sms": "0.110",
+    "flag": "flag-guadeloupe"
+  },
+  {
+    "id": "gu",
+    "country": "Guam",
+    "price_sms": "0.005",
+    "flag": "flag-guam"
+  },
+  {
+    "id": "gt",
+    "country": "Guatemala",
+    "price_sms": "0.035",
+    "flag": "flag-guatemala"
+  },
+  {
+    "id": "gn",
+    "country": "Guinea",
+    "price_sms": "0.100",
+    "flag": "flag-guinea"
+  },
+  {
+    "id": "gw",
+    "country": "Guinee-Bissau",
+    "price_sms": "0.080",
+    "flag": "flag-guinea-bissau"
+  },
+  {
+    "id": "gy",
+    "country": "Guyana",
+    "price_sms": "0.040",
+    "flag": "flag-guyana"
+  },
+  {
+    "id": "ht",
+    "country": "Haïti",
+    "price_sms": "0.030",
+    "flag": "flag-haiti"
+  },
+  {
+    "id": "hn",
+    "country": "Honduras",
+    "price_sms": "0.040",
+    "flag": "flag-honduras"
+  },
+  {
+    "id": "hk",
+    "country": "Hong Kong",
+    "price_sms": "0.040",
+    "flag": "flag-hong-kong"
+  },
+  {
+    "id": "hu",
+    "country": "Hongarije",
+    "price_sms": "0.050",
+    "flag": "flag-hungary"
+  },
+  {
+    "id": "ie",
+    "country": "Ierland",
+    "price_sms": "0.050",
+    "flag": "flag-ireland"
+  },
+  {
+    "id": "is",
+    "country": "Ijsland",
+    "price_sms": "0.020",
+    "flag": "flag-iceland"
+  },
+  {
+    "id": "in",
+    "country": "Indië",
+    "price_sms": "0.025",
+    "flag": "flag-india"
+  },
+  {
+    "id": "in",
+    "country": "Indië",
+    "price_sms": "0.025",
+    "flag": "flag-india"
+  },
+  {
+    "id": "id",
+    "country": "Indonesië",
+    "price_sms": "0.040",
+    "flag": "flag-indonesia"
+  },
+  {
+    "id": "ir",
+    "country": "Iran",
+    "price_sms": "0.050",
+    "flag": "flag-iran"
+  },
+  {
+    "id": "il",
+    "country": "Israël",
+    "price_sms": "0.010",
+    "flag": "flag-israel"
+  },
+  {
+    "id": "it",
+    "country": "Italië",
+    "price_sms": "0.035",
+    "flag": "flag-italy"
+  },
+  {
+    "id": "jm",
+    "country": "Jamaica",
+    "price_sms": "0.005",
+    "flag": "flag-jamaica"
+  },
+  {
+    "id": "jp",
+    "country": "Japan",
+    "price_sms": "0.050",
+    "flag": "flag-japan"
+  },
+  {
+    "id": "jo",
+    "country": "Jordanië",
+    "price_sms": "0.080",
+    "flag": "flag-jordan"
+  },
+  {
+    "id": "ky",
+    "country": "Kaaimaneilanden",
+    "price_sms": "0.005",
+    "flag": "flag-cayman-islands"
+  },
+  {
+    "id": "cv",
+    "country": "Kaapverdië",
+    "price_sms": "0.050",
+    "flag": "flag-cape-verde"
+  },
+  {
+    "id": "ke",
+    "country": "Kenia",
+    "price_sms": "0.040",
+    "flag": "flag-kenya"
+  },
+  {
+    "id": "kw",
+    "country": "Koeweit",
+    "price_sms": "0.030",
+    "flag": "flag-kuwait"
+  },
+  {
+    "id": "cv",
+    "country": "Kroatië",
+    "price_sms": "0.030",
+    "flag": "flag-croatia"
+  },
+  {
+    "id": "lv",
+    "country": "Letland",
+    "price_sms": "0.050",
+    "flag": "flag-latvia"
+  },
+  {
+    "id": "lr",
+    "country": "Liberia",
+    "price_sms": "0.050",
+    "flag": "flag-liberia"
+  },
+  {
+    "id": "ly",
+    "country": "Libië",
+    "price_sms": "0.020",
+    "flag": "flag-libya"
+  },
+  {
+    "id": "li",
+    "country": "Lichtenstein",
+    "price_sms": "0.020",
+    "flag": "flag-liechtenstein"
+  },
+  {
+    "id": "lt",
+    "country": "Litouwen",
+    "price_sms": "0.050",
+    "flag": "flag-lithuania"
+  },
+  {
+    "id": "lu",
+    "country": "Luxemburg",
+    "price_sms": "0.030",
+    "flag": "flag-luxembourg"
+  },
+  {
+    "id": "mk",
+    "country": "Macedonië",
+    "price_sms": "0.050",
+    "flag": "flag-macedonia"
+  },
+  {
+    "id": "mg",
+    "country": "Madagascar",
+    "price_sms": "0.065",
+    "flag": "flag-madagascar"
+  },
+  {
+    "id": "mw",
+    "country": "Malawi",
+    "price_sms": "0.030",
+    "flag": "flag-malawi"
+  },
+  {
+    "id": "my",
+    "country": "Maleisië",
+    "price_sms": "0.025",
+    "flag": "flag-malaysia"
+  },
+  {
+    "id": "ml",
+    "country": "Mali",
+    "price_sms": "0.065",
+    "flag": "flag-mali"
+  },
+  {
+    "id": "mt",
+    "country": "Malta",
+    "price_sms": "0.020",
+    "flag": "flag-malta"
+  },
+  {
+    "id": "ma",
+    "country": "Marokko",
+    "price_sms": "0.050",
+    "flag": "flag-morocco"
+  },
+  {
+    "id": "mq",
+    "country": "Martinique",
+    "price_sms": "0.100",
+    "flag": "flag-martinique"
+  },
+  {
+    "id": "mr",
+    "country": "Mauritanië",
+    "price_sms": "0.065",
+    "flag": "flag-mauritania"
+  },
+  {
+    "id": "mu",
+    "country": "Mauritius",
+    "price_sms": "0.020",
+    "flag": "flag-mauritius"
+  },
+  {
+    "id": "mx",
+    "country": "Mexico",
+    "price_sms": "0.035",
+    "flag": "flag-mexico"
+  },
+  {
+    "id": "md",
+    "country": "Moldavië",
+    "price_sms": "0.040",
+    "flag": "flag-moldova"
+  },
+  {
+    "id": "mc",
+    "country": "Monaco",
+    "price_sms": "0.120",
+    "flag": "flag-monaco"
+  },
+  {
+    "id": "mn",
+    "country": "Mongolië",
+    "price_sms": "0.040",
+    "flag": "flag-mongolia"
+  },
+  {
+    "id": "me",
+    "country": "Montenegro",
+    "price_sms": "0.020",
+    "flag": "flag-montenegro"
+  },
+  {
+    "id": "ms",
+    "country": "Montserrat",
+    "price_sms": "0.005",
+    "flag": "flag-montserrat"
+  },
+  {
+    "id": "mz",
+    "country": "Mozambique",
+    "price_sms": "0.025",
+    "flag": "flag-mozambique"
+  },
+  {
+    "id": "na",
+    "country": "Namibië",
+    "price_sms": "0.040",
+    "flag": "flag-namibia"
+  },
+  {
+    "id": "nl",
+    "country": "Nederland",
+    "price_sms": "0.060",
+    "flag": "flag-netherlands"
+  },
+  {
+    "id": "np",
+    "country": "Nepal",
+    "price_sms": "0.070",
+    "flag": "flag-nepal"
+  },
+  {
+    "id": "nz",
+    "country": "New Zeeland",
+    "price_sms": "0.080",
+    "flag": "flag-new-zealand"
+  },
+  {
+    "id": "ni",
+    "country": "Nicaragua",
+    "price_sms": "0.040",
+    "flag": "flag-nicaragua"
+  },
+  {
+    "id": "ne",
+    "country": "Niger",
+    "price_sms": "0.045",
+    "flag": "flag-niger"
+  },
+  {
+    "id": "ng",
+    "country": "Nigeria",
+    "price_sms": "0.055",
+    "flag": "flag-nigeria"
+  },
+  {
+    "id": "mp",
+    "country": "Noordelijke Marianen",
+    "price_sms": "0.005",
+    "flag": "flag-northern-mariana-islands"
+  },
+  {
+    "id": "no",
+    "country": "Noorwegen",
+    "price_sms": "0.050",
+    "flag": "flag-norway"
+  },
+  {
+    "id": "ua",
+    "country": "Oekraïne",
+    "price_sms": "0.065",
+    "flag": "flag-ukraine"
+  },
+  {
+    "id": "om",
+    "country": "Oman",
+    "price_sms": "0.045",
+    "flag": "flag-oman"
+  },
+  {
+    "id": "at",
+    "country": "Oostenrijk",
+    "price_sms": "0.025",
+    "flag": "flag-austria"
+  },
+  {
+    "id": "pk",
+    "country": "Pakistan",
+    "price_sms": "0.060",
+    "flag": "flag-pakistan"
+  },
+  {
+    "id": "pa",
+    "country": "Panama",
+    "price_sms": "0.040",
+    "flag": "flag-panama"
+  },
+  {
+    "id": "py",
+    "country": "Paraguay",
+    "price_sms": "0.015",
+    "flag": "flag-paraguay"
+  },
+  {
+    "id": "pe",
+    "country": "Peru",
+    "price_sms": "0.025",
+    "flag": "flag-peru"
+  },
+  {
+    "id": "pl",
+    "country": "Polen",
+    "price_sms": "0.030",
+    "flag": "flag-poland"
+  },
+  {
+    "id": "pt",
+    "country": "Portugal",
+    "price_sms": "0.040",
+    "flag": "flag-portugal"
+  },
+  {
+    "id": "pr",
+    "country": "Puerto Rico",
+    "price_sms": "0.005",
+    "flag": "flag-puerto-rico"
+  },
+  {
+    "id": "qa",
+    "country": "Qatar",
+    "price_sms": "0.040",
+    "flag": "flag-qatar"
+  },
+  {
+    "id": "cg",
+    "country": "Republiek Congo",
+    "price_sms": "0.025",
+    "flag": "flag-congo-brazzaville"
+  },
+  {
+    "id": "ro",
+    "country": "Roemenië",
+    "price_sms": "0.050",
+    "flag": "flag-congo-romania"
+  },
+  {
+    "id": "ru",
+    "country": "Rusland",
+    "price_sms": "0.010",
+    "flag": "flag-russia"
+  },
+  {
+    "id": "rw",
+    "country": "Rwanda",
+    "price_sms": "0.040",
+    "flag": "flag-rwanda"
+  },
+  {
+    "id": "kn",
+    "country": "Saint Kitts en Nevis",
+    "price_sms": "0.005",
+    "flag": "flag-saint-kitts-and-nevis"
+  },
+  {
+    "id": "lc",
+    "country": "Saint Lucia",
+    "price_sms": "0.005",
+    "flag": "flag-saint-lucia"
+  },
+  {
+    "id": "kn",
+    "country": "Saint Vincent en de Grenadin",
+    "price_sms": "0.005",
+    "flag": "flag-saint-vincent"
+  },
+  {
+    "id": "sm",
+    "country": "San Marino",
+    "price_sms": "0.070",
+    "flag": "flag-san-marino"
+  },
+  {
+    "id": "sa",
+    "country": "Saudi Arabië",
+    "price_sms": "0.020",
+    "flag": "flag-saudi-arabia"
+  },
+  {
+    "id": "sn",
+    "country": "Senegal",
+    "price_sms": "0.080",
+    "flag": "flag-senegal"
+  },
+  {
+    "id": "rs",
+    "country": "Servië",
+    "price_sms": "0.025",
+    "flag": "flag-serbia"
+  },
+  {
+    "id": "sl",
+    "country": "Sierra Leone",
+    "price_sms": "0.020",
+    "flag": "flag-sierra-leone"
+  },
+  {
+    "id": "sg",
+    "country": "Singapore",
+    "price_sms": "0.015",
+    "flag": "flag-singapore"
+  },
+  {
+    "id": "??",
+    "country": "Sint Maarten",
+    "price_sms": "0.005",
+    "flag": "flag-??"
+  },
+  {
+    "id": "sk",
+    "country": "Slovakije",
+    "price_sms": "0.060",
+    "flag": "flag-slovakia"
+  },
+  {
+    "id": "so",
+    "country": "Somalië",
+    "price_sms": "0.055",
+    "flag": "flag-somalia"
+  },
+  {
+    "id": "es",
+    "country": "Spanje",
+    "price_sms": "0.027",
+    "flag": "flag-spain"
+  },
+  {
+    "id": "sd",
+    "country": "Sudan",
+    "price_sms": "0.040",
+    "flag": "flag-sudan"
+  },
+  {
+    "id": "sr",
+    "country": "Suriname",
+    "price_sms": "0.025",
+    "flag": "flag-suriname"
+  },
+  {
+    "id": "sz",
+    "country": "Swaziland",
+    "price_sms": "0.040",
+    "flag": "flag-swaziland"
+  },
+  {
+    "id": "sy",
+    "country": "Syrië",
+    "price_sms": "0.090",
+    "flag": "flag-syria"
+  },
+  {
+    "id": "tw",
+    "country": "Taiwan",
+    "price_sms": "0.040",
+    "flag": "flag-taiwan"
+  },
+  {
+    "id": "tz",
+    "country": "Tanzanië",
+    "price_sms": "0.050",
+    "flag": "flag-tanzania"
+  },
+  {
+    "id": "th",
+    "country": "Thailand",
+    "price_sms": "0.020",
+    "flag": "flag-thailand"
+  },
+  {
+    "id": "tg",
+    "country": "Togo",
+    "price_sms": "0.035",
+    "flag": "flag-togo"
+  },
+  {
+    "id": "tt",
+    "country": "Trinidad en Tobago",
+    "price_sms": "0.005",
+    "flag": "flag-trinidad"
+  },
+  {
+    "id": "cz",
+    "country": "Tsjechië",
+    "price_sms": "0.050",
+    "flag": "flag-czech-republic"
+  },
+  {
+    "id": "tn",
+    "country": "Tunesië",
+    "price_sms": "0.050",
+    "flag": "flag-tunisia"
+  },
+  {
+    "id": "tr",
+    "country": "Turkije",
+    "price_sms": "0.020",
+    "flag": "flag-turkey"
+  },
+  {
+    "id": "tc",
+    "country": "Turks- en Caicoseilanden",
+    "price_sms": "0.005",
+    "flag": "flag-caicos-islands"
+  },
+  {
+    "id": "us",
+    "country": "U.S.A.",
+    "price_sms": "0.005",
+    "flag": "flag-united-states"
+  },
+  {
+    "id": "ug",
+    "country": "Uganda",
+    "price_sms": "0.050",
+    "flag": "flag-uganda"
+  },
+  {
+    "id": "uy",
+    "country": "Uruguay",
+    "price_sms": "0.065",
+    "flag": "flag-uruguay"
+  },
+  {
+    "id": "ve",
+    "country": "Venezuela",
+    "price_sms": "0.030",
+    "flag": "flag-venezuela"
+  },
+  {
+    "id": "gb",
+    "country": "Verenigd Koninkrijk",
+    "price_sms": "0.020",
+    "flag": "flag-united-kingdom"
+  },
+  {
+    "id": "ae",
+    "country": "Verenigde Arabische Emiraten",
+    "price_sms": "0.020",
+    "flag": "flag-uae"
+  },
+  {
+    "id": "by",
+    "country": "Wit-Rusland",
+    "price_sms": "0.060",
+    "flag": "flag-belarus"
+  },
+  {
+    "id": "ye",
+    "country": "Yemen",
+    "price_sms": "0.060",
+    "flag": "flag-yemen"
+  },
+  {
+    "id": "zm",
+    "country": "Zambia",
+    "price_sms": "0.045",
+    "flag": "flag-zambia"
+  },
+  {
+    "id": "zw",
+    "country": "Zimbabwe",
+    "price_sms": "0.020",
+    "flag": "flag-zimbabwe"
+  },
+  {
+    "id": "kr",
+    "country": "Zuid-Korea",
+    "price_sms": "0.035",
+    "flag": "flag-south-korea"
+  },
+  {
+    "id": "za",
+    "country": "Zuid-Afrika",
+    "price_sms": "0.025",
+    "flag": "flag-south-africa"
+  },
+  {
+    "id": "se",
+    "country": "Zweden",
+    "price_sms": "0.040",
+    "flag": "flag-sweden"
+  },
+  {
+    "id": "se",
+    "country": "Zweden",
+    "price_sms": "0.040",
+    "flag": "flag-sweden"
+  },
+  {
+    "id": "ch",
+    "country": "Zwitserland",
+    "price_sms": "0.027",
+    "flag": "flag-switzerland"
+  }
+]

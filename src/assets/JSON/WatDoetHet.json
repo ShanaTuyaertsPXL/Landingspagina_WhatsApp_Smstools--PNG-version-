@@ -1,0 +1,84 @@
+{
+  "title_verschillendeManieren": "Ontdek de veelzijdige klantverbindingsopties van de Smstools WhatsApp-API.",
+  "verschillendeManieren": [
+    {
+      "number": 1,
+      "title": "Verstuur maandelijks nieuwsbrieven",
+      "description": "Verstuur maandelijks boeiende en gepersonaliseerde nieuwsbrieven rechtstreeks naar de mobiele apparaten van uw abonnees. Til uw nieuwsbrieven naar een hoger niveau met de kracht van WhatsApp en de functionaliteit van Smstools en bouw een sterke betrokkenheid op bij uw publiek.",
+      "class": "mr-xl-4 ml-xl-0 mr-lg-4 ml-lg-0"
+    },
+    {
+      "number": 2,
+      "title": "Automatiseer klantencommunicatie",
+      "description": "Bespaar tijd en verhoog de klanttevredenheid met onze handige interface, waarmee u berichten kunt automatiseren, gepersonaliseerde meldingen kunt verzenden en snelle klantenservice kunt bieden. \n Profiteer van de krachtige mogelijkheden van WhatsApp bij Smstools.",
+      "class": "mr-xl-0 ml-xl-4 mr-lg-0 ml-lg-4"
+    },
+    {
+      "number": 3,
+      "title": "Ontvang feedback van klanten",
+      "description": "Haal waardevolle feedback van uw klanten binnen met behulp van WhatsApp bij Smstools. Dankzij de eenvoudige integratie van WhatsApp en Smstools kunt u een efficiënt feedbackproces opzetten en uw klantgerichtheid naar een hoger niveau tillen. Luister naar de stem van uw klanten, verbeter uw bedrijf voortdurend en bouw aan een sterke klantrelatie.",
+      "class": "mr-xl-4 ml-xl-0 mr-lg-4 ml-lg-0"
+    },
+    {
+      "number": 4,
+      "title": "Verstuur berichten via het Smstools-paneel",
+      "description": "Ontdek de eenvoudige integratie van WhatsApp in Smstools en stuur berichten via WhatsApp vanuit het Smstools-paneel. Ervaar het gemak en de efficiëntie van een geoptimaliseerde communicatie met uw klanten, met de voordelen van WhatsApp voor snelle en effectieve berichtenuitwisseling.",
+      "class": "mr-xl-0 ml-xl-4 mr-lg-0 ml-lg-4"
+    }
+  ],
+  "title_communicatieVerbeteren": "Optimaliseer uw interne communicatie met WhatsApp",
+  "title_communicatieVerbeterenMobile": "Optimaliseer uw interne communicatie \n met WhatsApp",
+  "communicatieVerbeteren": {
+    "1": {
+      "icon": "bi bi-person-badge mr-3",
+      "communicatieManier": "Krachtige en efficiënte communicatie in één klik",
+      "description": "WhatsApp biedt een directe en efficiënte manier voor teams om met elkaar te communiceren. Via de app kunnen teamleden direct berichten, bestanden en updates delen, waardoor er geen vertragingen of misverstanden zijn bij het overbrengen van belangrijke informatie.",
+      "image": "directe_efficiënte_communicatie.webp"
+    },
+    "2": {
+      "icon": "bi bi-graph-up-arrow mr-3",
+      "communicatieManier": "Versterk samenwerking en teamwork voor verbeterde prestaties",
+      "description": "Met WhatsApp kunnen teams makkelijk samenwerken en hun werk efficiënt organiseren. Dankzij real-time communicatie kunnen teamleden snel reageren op vragen, ideeën uitwisselen en beslissingen nemen. Dit resulteert in een gevoel van samenwerking en verhoogde productiviteit voor het hele team.",
+      "image": "verbeterde-samenwerking__teamwork.webp"
+    },
+    "3": {
+      "icon": "bi bi-geo-alt mr-3",
+      "communicatieManier": "Flexibele communicatie, ongeacht de locatie",
+      "description": "WhatsApp verbindt teamleden, ongeacht hun locatie, of ze nu op kantoor, onderweg of op afstand werken. Het biedt een naadloze communicatie-ervaring die ervoor zorgt dat iedereen op de hoogte blijft. Dit bevordert een effectieve en tijdige uitwisseling van informatie, ongeacht waar de teamleden zich bevinden.",
+      "image": "flexibele_communicatie_ongeacht_locatie.webp"
+    }
+  },
+  "title_software": "Verstuur en ontvang chat berichten van klanten via onze software",
+  "software": [
+    {
+      "id": 1,
+      "title": "Realtime notificaties voor uw klanten",
+      "icon": "bi bi-bell",
+      "description": "Houd klanten op de hoogte met realtime meldingen voor boekingsbevestigingen, bezorging waarschuwingen en service herinneringen.\n\nOnze software maakt het mogelijk om chatberichten te verzenden en ontvangen, waardoor u constant in contact kunt blijven met uw klanten, ongeacht hun locatie. Dankzij onze software kunt u een optimale chatervaring bieden aan uw klanten, waarbij ze gemakkelijk met u kunnen communiceren en hun vragen en behoeften kunnen uiten.\nMet realtime notificaties kunt u direct reageren en waardevolle interacties aangaan, waardoor u de tevredenheid en loyaliteit van uw klanten kunt vergroten.",
+      "image": "img-notis.webp",
+      "aosImg": "fade-up",
+      "aosTxt": "fade-left",
+      "duration": "1200"
+    },
+    {
+      "id": 2,
+      "title": "Stimuleer uw verkoop dankzij WhatsApp Conversies",
+      "icon": "bi bi-rocket-takeoff",
+      "description": "Met onze geavanceerde software kunt u direct contact leggen met uw klanten via WhatsApp, waardoor u gepersonaliseerde communicatie kunt bieden die de verkoop bevordert.\n\nProfiteer van functies zoals het versturen van afbeeldingen, video's en documenten om uw producten visueel aantrekkelijk te presenteren. Geautomatiseerde berichten en autoresponders zorgen voor snelle respons en een optimale klantenservice-ervaring. Met WhatsApp Conversies kunt u de effectiviteit van uw marketing meten en optimaliseren. Bereik uw klanten op een directe en persoonlijke manier, en creëer een positieve koopervaring die leidt tot groei en succes voor uw bedrijf.",
+      "image": "img-stimuleer_verkoop.webp",
+      "aosImg": "fade-up",
+      "aosTxt": "fade-right",
+      "duration": "1200"
+    },
+    {
+      "id": 3,
+      "title": "Reageer rechtstreeks op vragen van klanten via onze software",
+      "icon": "bi bi-headset",
+      "description": "Verbeter uw klantenservice door direct in te gaan op vragen van klanten via onze gebruiksvriendelijke software. Creëer een uitstekende klantervaring door gerichte en effectieve antwoorden te bieden en versterk zo de band met uw klanten.",
+      "image": "img-support_communicatie.webp",
+      "aosImg": "fade-up",
+      "aosTxt": "fade-left",
+      "duration": "1200"
+    }
+  ]
+}

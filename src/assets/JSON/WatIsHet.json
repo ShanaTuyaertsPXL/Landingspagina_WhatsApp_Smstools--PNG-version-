@@ -1,0 +1,61 @@
+{
+  "verbindWhatsapp": {
+    "title": "Verbind WhatsApp met Smstools voor efficiënte bedrijfscommunicatie",
+    "description": [
+      "Smstools biedt een geavanceerde communicatieoplossing die speciaal is ontworpen voor bedrijfseigenaren, ongeacht de omvang van hun onderneming.",
+      "Door WhatsApp te koppelen aan Smstools, kunt u profiteren van geavanceerde functionaliteiten zoals automatische berichtverzending, berichtsortering en snelle responsmogelijkheden. Dit maakt het gemakkelijker dan ooit om effectief te communiceren met uw klanten.",
+      "Het platform is ontwikkeld om dezelfde vertrouwde gebruikerservaring te bieden als WhatsApp Messenger, waardoor het versturen van berichten, foto's en meer een makkelijk proces wordt. Maak vandaag nog gebruik van Smstools en ontdek hoe u WhatsApp kunt inzetten voor een efficiënte bedrijfscommunicatie."
+    ],
+    "image": "Whatsapp-verbinden-498x476.webp"
+  },
+  "break1": "Wij verbinden uw account met WhatsApp, zodat u eenvoudig berichten kunt versturen en ontvangen via WhatsApp.",
+  "break2": "Haal het maximale uit uw communicatie met WhatsApp",
+  "whatsappIntegratie": {
+    "title": "WhatsApp integratie met Smstools",
+    "description": "Bent u op zoek naar een WhatsApp API of softwarekoppeling? Smstools biedt een uitgebreide ondersteuning bij het opzetten van uw WhatsApp-account. Verstuur en ontvang moeiteloos berichten via onze geavanceerde software en API.",
+    "checks": [
+      "Verstuur en ontvang berichten via hetzelfde nummer, waardoor uw communicatie consistent blijft.",
+      "Huur maandelijks een WhatsApp-licentie, zodat u gebruik kunt maken van de krachtige functionaliteiten van WhatsApp.",
+      "Het ontvangen van berichten is gratis, waardoor u gemakkelijk in contact kunt blijven met uw klanten."
+    ],
+    "image": "Whatsapp-integreer-997x626.webp"
+  },
+  "title_posibs": "Ontdek de talloze mogelijkheden bij WhatsApp bij Smstools",
+  "title_posibs992": "Ontdek de talloze mogelijkheden \n bij WhatsApp bij Smstools",
+  "imgPosib": "Mogelijkheden.webp",
+  "mogelijkheden": [
+    {
+      "id": 1,
+      "title": "Verzenden van diverse bestanden",
+      "description": "Met onze gebruiksvriendelijke oplossing kunt u verschillende soorten bestanden verzenden, waaronder afbeeldingen, links, audio en PDF-bestanden. Met een simpele klik kunt u uw gewenste bestanden direct delen, waardoor het versturen van informatie en het delen van belangrijke documenten een fluitje van een cent wordt.",
+      "icon": "bi bi-file-earmark-richtext"
+    },
+    {
+      "id": 2,
+      "title": "Automatische inkomende berichten doorsturen",
+      "description": "Bespaar tijd en verhoog de efficiëntie door het doorsturen van alle inkomende berichten naar een API (webservice). Hierdoor kunnen gegevens sneller en eenvoudiger verwerkt worden, terwijl fouten voorkomen worden en kwaliteit gegarandeerd wordt. Ontdek de voordelen van WhatsApp voor uw onderneming.",
+      "icon": "bi bi-fast-forward"
+    },
+    {
+      "id": 3,
+      "title": "Follow-up dankzij statusupdates",
+      "description": "Met statusupdates kunt u gemakkelijk de aflevering en leesstatus van uw berichten bijhouden, waardevolle inzichten verkrijgen en eenvoudig de nodige follow-up doen voor succesvolle communicatie. Bereik meer dan 1,5 miljard WhatsApp-gebruikers over de hele wereld",
+      "icon": "bi bi-eye"
+    },
+    {
+      "id": 4,
+      "title": "Automatische reacties met autoresponders",
+      "description": "Verhoog de gebruikservaring en productiviteit met behulp van autoresponders. Met vooraf ingestelde parameters kunt u automatisch reageren op inkomende berichten met een passend bericht, wat resulteert in een verbeterde gebruikerservaring en efficiëntie.",
+      "icon": "bi bi-gear"
+    }
+  ],
+  "part_1_voordelen_title": "Ontdek de voordelen van ",
+  "span": "WhatsApp",
+  "part_2_voordelen_title": "voor uw onderneming",
+  "voordelen": [
+    "Bereik 1,5 miljard WhatsApp-gebruikers wereldwijd.",
+    "Veilige gesprekken met de end-to-end encryptie van WhatsApp",
+    "Communiceer via verschillende kanalen met behulp van hetzelfde Smstools-account",
+    "Vereenvoudig de integratie met uw eigen services dankzij de eenvoudige API- of softwarekoppeling van Smstools"
+  ]
+}

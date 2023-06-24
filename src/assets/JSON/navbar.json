@@ -1,0 +1,20 @@
+{
+  "brand": "Smstools-Dark.webp",
+  "linkBrand": "",
+  "alt": "Smstools logo",
+  "tabs": [
+    {"tab": "Voorwaarden", "link": "#voorwaarden"},
+    {"tab": "Test het zelf", "link": "#test-het-zelf"},
+    {"tab": "Contact", "link": "#contact"}
+  ],
+  "dropdownHead": "Over WhatsApp",
+  "dropdown": [
+    {"tab": "Wat is WhatsApp?", "link": "#wat-is-het"},
+    {"tab": "Wat doet het?", "link": "#wat-doet-het"},
+    {"tab": "Hoe werkt het?", "link": "#hoe-werkt-het"}
+  ],
+  "register": {
+    "text": "Registreer",
+    "link": "https://www.smstools.be/nl/register"
+  }
+}

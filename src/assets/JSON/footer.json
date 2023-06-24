@@ -1,0 +1,79 @@
+{
+  "brand": "Smstools-Grey.webp",
+  "linkBrand": "",
+  "alt": "Smstools logo",
+  "navigate": [
+    {"tab": "Voorwaarden", "link": "#voorwaarden"},
+    {"tab": "Test het zelf", "link": "#test-het-zelf"},
+    {"tab": "Contact", "link": "#contact"}
+  ],
+  "dropdownHead": "Over WhatsApp",
+  "dropdown": [
+    {"tab": "Wat is WhatsApp?", "link": "#wat-is-het"},
+    {"tab": "Wat doet het?", "link": "#wat-doet-het"},
+    {"tab": "Hoe werkt het?", "link": "#hoe-werkt-het"}
+  ],
+  "register": {
+    "text": "Registreer",
+    "link": "https://www.smstools.be/nl/register"
+  },
+  "title_contacteer": "Contacteer ons voor al uw vragen.",
+  "contacteer_voor_vragen": [
+    {
+      "text": "Algemene vragen",
+      "contact": "info@smstools.be",
+      "link": "mailto:info@smstools.be",
+      "class": "col-xl-3 col-lg-3 offset-md-0 col-md-3 offset-sm-2 col-sm-6 offset-0 col-6",
+      "classOpmaak": "send"
+    },
+    {
+      "text": "Verkoopvragen",
+      "contact": "sales@smstools.be",
+      "link": "mailto:sales@smstools.be",
+      "class": "col-xl-3 col-lg-3 offset-md-0 col-md-3 offset-sm-2 col-sm-6 offset-1 col-6  pl-xl-5 pl-lg-5 pl-md-4 pl-sm-3 pl-0",
+      "classOpmaak": "send"
+    },
+    {
+      "text": "Supportvragen",
+      "contact": "support@smstools.be",
+      "link": "mailto:support@smstools.be",
+      "class": "col-xl-3 col-lg-3 offset-md-0 col-md-3 offset-sm-2 col-sm-6 offset-1 col-6  pl-xl-5 pl-lg-5 pl-md-4 pl-sm-3 pl-0",
+      "classOpmaak": "send"
+    },
+    {
+      "text": "Bel ons",
+      "contact": "+32 (0)89 44 90 41",
+      "link": "tel:+3289449041",
+      "class": "col-xl-3 col-lg-3 offset-md-0 col-md-3 offset-sm-2 col-sm-6 offset-1 col-6  pl-xl-5 pl-lg-5 pl-md-4 pl-sm-3 pl-0",
+      "classOpmaak": "tel"
+    }
+  ],
+  "text_copyright": "© 2023 Alle rechten voorbehouden, Smstools.",
+  "link_copyright": "https://www.smstools.be/nl/copyright",
+  "bottom_footer": [
+    {
+      "text": "Terms&Conditions",
+      "bullet": " • ",
+      "link": "https://www.smstools.be/nl/terms-and-conditions",
+      "class": "pl-5",
+      "classBullet": "ml-xl-2 ml-lg-2 ml-md-0 ml-sm-0 ml-2"
+    },
+    {
+      "text": "Acceptable Use Policy ",
+      "bullet": " • ",
+      "link": "https://www.smstools.be/nl/acceptable-use-policy",
+      "classBullet": "ml-xl-2 ml-lg-2 ml-md-0 ml-sm-0 ml-2"
+    },
+    {
+      "text": "Privacy Policy ",
+      "bullet": " • ",
+      "link": "https://www.smstools.be/nl/privacy-policy",
+      "classBullet": "ml-xl-2 ml-lg-2 ml-md-0 ml-sm-0 ml-2"
+    },
+    {
+      "text": "Sitemap ",
+      "link": "https://www.smstools.be/nl/sitemap",
+      "classBullet": "ml-xl-2 ml-lg-2 ml-md-0 ml-sm-0 ml-2"
+    }
+  ]
+}

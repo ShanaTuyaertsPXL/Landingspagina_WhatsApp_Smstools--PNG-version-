@@ -151,7 +151,7 @@ export default {
   data() {
     return {
       WatIsHet: infoOverWhatsapp,
-      imagePath: '/src/assets/WatIsHet/',
+      imagePath: 'src/assets/WatIsHet/',
     }
   },
 }

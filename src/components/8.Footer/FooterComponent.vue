@@ -68,7 +68,7 @@ export default {
   data() {
     return {
       footer: footer,
-      imagePath: "/src/assets/Footer/",
+      imagePath: "src/assets/Footer/",
       dropdownOpen: false
     }
   },

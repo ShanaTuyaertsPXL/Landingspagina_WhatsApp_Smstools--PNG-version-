@@ -67,7 +67,7 @@ export default {
       currentStep: 0,
       titleTestSms:"Ervaar het verzenden van een",
       testSms:"test-SMS",
-      imagePath:"/src/assets/TestHetZelf/",
+      imagePath:"src/assets/TestHetZelf/",
       qr: "qrcode_testSms.webp",
       button: "Test het zelf",
       images: [
@@ -149,7 +149,7 @@ export default {
 //----------------------------------------------------------------------------------------------------------------------
 
 #sms_wave {
-  background: url("/src/assets/TestHetZelf/TestHetZelf_wave.webp") no-repeat;
+  background: url("src/assets/TestHetZelf/TestHetZelf_wave.webp") no-repeat;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -160,7 +160,7 @@ export default {
 }
 
 #testHetZelf_wave {
-  background: url("/src/assets/TestHetZelf/TestHetZelf_wave.webp") no-repeat;
+  background: url("src/assets/TestHetZelf/TestHetZelf_wave.webp") no-repeat;
   //background-size: cover;
   margin: 0;
   padding: 0;

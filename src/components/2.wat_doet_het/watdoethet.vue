@@ -174,7 +174,7 @@ export default {
   data() {
     return {
       WatDoetHet: WatDoetHet,
-      imagePath: "/src/assets/WatDoetHet/"
+      imagePath: "src/assets/WatDoetHet/"
     }
   }
 }

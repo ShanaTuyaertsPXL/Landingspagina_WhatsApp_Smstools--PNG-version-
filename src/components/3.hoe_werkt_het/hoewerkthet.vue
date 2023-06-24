@@ -77,7 +77,7 @@ export default {
   data() {
     return {
       HoeWerktHet: HoeWerktHet,
-      imagePath: "/src/assets/HoeWerktHet/"
+      imagePath: "src/assets/HoeWerktHet/"
     }
   }
 }

@@ -90,7 +90,7 @@
           <div
               class="offset-xl-0 col-xl-5 offset-lg-3 col-lg-6 offset-md-3 col-md-6 offset-sm-2 col-sm-8 offset-2 col-8  order-xl-2 order-lg-1 order-md-1 order-sm-1 order-1 pl-xl-5 pl-lg-0 pl-md-0 pl-sm-0 pl-0"
               data-aos="fade-left" data-aos-duration="1200" data-aos-offset="1200">
-            <img src="/src/assets/Contact/Sevinç_contact.png" class="mb-xl-0 mb-lg-4 mb-md-4 mb-sm-4 mb-4"
+            <img src="src/assets/Contact/Sevinç_contact.png" class="mb-xl-0 mb-lg-4 mb-md-4 mb-sm-4 mb-4"
                  id="contact_img" alt="contact image">
           </div>
         </div>
@@ -582,7 +582,7 @@ p {
   }
 
   #wave_contact {
-    background: url("/src/assets/Contact/Wave_contact.webp") no-repeat;
+    background: url("src/assets/Contact/Wave_contact.webp") no-repeat;
     background-size: cover;
     margin: 0;
     padding: 0;

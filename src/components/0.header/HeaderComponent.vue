@@ -101,7 +101,7 @@ $FontSizeParagraphMobile: 1rem;
   height: 100vh;
   width: 100%;
   overflow: hidden;
-  background: url("/src/assets/Header/wavy_form.webp") no-repeat bottom;
+  background: url("/src/assets/Header/wavy_form.png") no-repeat bottom;
   background-size: cover;
 
   h1 {

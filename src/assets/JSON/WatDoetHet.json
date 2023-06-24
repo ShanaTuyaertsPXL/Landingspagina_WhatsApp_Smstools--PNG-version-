@@ -33,19 +33,19 @@
       "icon": "bi bi-person-badge mr-3",
       "communicatieManier": "Krachtige en efficiënte communicatie in één klik",
       "description": "WhatsApp biedt een directe en efficiënte manier voor teams om met elkaar te communiceren. Via de app kunnen teamleden direct berichten, bestanden en updates delen, waardoor er geen vertragingen of misverstanden zijn bij het overbrengen van belangrijke informatie.",
-      "image": "directe_efficiënte_communicatie.webp"
+      "image": "directe_efficiënte_communicatie.png"
     },
     "2": {
       "icon": "bi bi-graph-up-arrow mr-3",
       "communicatieManier": "Versterk samenwerking en teamwork voor verbeterde prestaties",
       "description": "Met WhatsApp kunnen teams makkelijk samenwerken en hun werk efficiënt organiseren. Dankzij real-time communicatie kunnen teamleden snel reageren op vragen, ideeën uitwisselen en beslissingen nemen. Dit resulteert in een gevoel van samenwerking en verhoogde productiviteit voor het hele team.",
-      "image": "verbeterde-samenwerking__teamwork.webp"
+      "image": "verbeterde-samenwerking__teamwork.png"
     },
     "3": {
       "icon": "bi bi-geo-alt mr-3",
       "communicatieManier": "Flexibele communicatie, ongeacht de locatie",
       "description": "WhatsApp verbindt teamleden, ongeacht hun locatie, of ze nu op kantoor, onderweg of op afstand werken. Het biedt een naadloze communicatie-ervaring die ervoor zorgt dat iedereen op de hoogte blijft. Dit bevordert een effectieve en tijdige uitwisseling van informatie, ongeacht waar de teamleden zich bevinden.",
-      "image": "flexibele_communicatie_ongeacht_locatie.webp"
+      "image": "flexibele_communicatie_ongeacht_locatie.png"
     }
   },
   "title_software": "Verstuur en ontvang chat berichten van klanten via onze software",
@@ -55,7 +55,7 @@
       "title": "Realtime notificaties voor uw klanten",
       "icon": "bi bi-bell",
       "description": "Houd klanten op de hoogte met realtime meldingen voor boekingsbevestigingen, bezorging waarschuwingen en service herinneringen.\n\nOnze software maakt het mogelijk om chatberichten te verzenden en ontvangen, waardoor u constant in contact kunt blijven met uw klanten, ongeacht hun locatie. Dankzij onze software kunt u een optimale chatervaring bieden aan uw klanten, waarbij ze gemakkelijk met u kunnen communiceren en hun vragen en behoeften kunnen uiten.\nMet realtime notificaties kunt u direct reageren en waardevolle interacties aangaan, waardoor u de tevredenheid en loyaliteit van uw klanten kunt vergroten.",
-      "image": "img-notis.webp",
+      "image": "img-notis.png",
       "aosImg": "fade-up",
       "aosTxt": "fade-left",
       "duration": "1200"
@@ -65,7 +65,7 @@
       "title": "Stimuleer uw verkoop dankzij WhatsApp Conversies",
       "icon": "bi bi-rocket-takeoff",
       "description": "Met onze geavanceerde software kunt u direct contact leggen met uw klanten via WhatsApp, waardoor u gepersonaliseerde communicatie kunt bieden die de verkoop bevordert.\n\nProfiteer van functies zoals het versturen van afbeeldingen, video's en documenten om uw producten visueel aantrekkelijk te presenteren. Geautomatiseerde berichten en autoresponders zorgen voor snelle respons en een optimale klantenservice-ervaring. Met WhatsApp Conversies kunt u de effectiviteit van uw marketing meten en optimaliseren. Bereik uw klanten op een directe en persoonlijke manier, en creëer een positieve koopervaring die leidt tot groei en succes voor uw bedrijf.",
-      "image": "img-stimuleer_verkoop.webp",
+      "image": "img-stimuleer_verkoop.png",
       "aosImg": "fade-up",
       "aosTxt": "fade-right",
       "duration": "1200"
@@ -75,7 +75,7 @@
       "title": "Reageer rechtstreeks op vragen van klanten via onze software",
       "icon": "bi bi-headset",
       "description": "Verbeter uw klantenservice door direct in te gaan op vragen van klanten via onze gebruiksvriendelijke software. Creëer een uitstekende klantervaring door gerichte en effectieve antwoorden te bieden en versterk zo de band met uw klanten.",
-      "image": "img-support_communicatie.webp",
+      "image": "img-support_communicatie.png",
       "aosImg": "fade-up",
       "aosTxt": "fade-left",
       "duration": "1200"

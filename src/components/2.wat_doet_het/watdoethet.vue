@@ -71,7 +71,7 @@
         <div class="row my-0" data-aos="flip-down" data-aos-duration="600" data-aos-offset="200">
           <div
               class="offset-xl-4 offset-lg-4 offset-md-5 offset-sm-4 offset-4 pr-5 col-xl-7 col-lg-7 col-md-7 col-sm-10 col-10 py-lg-0 py-md-0 py-sm-3">
-            <img src="/src/assets/WatDoetHet/arrow_to_right.webp" alt="Arrow right" class="arrow_communication">
+            <img src="/src/assets/WatDoetHet/arrow_to_right.png" alt="Arrow right" class="arrow_communication">
           </div>
         </div>
 
@@ -102,7 +102,7 @@
         <div class="row my-0" data-aos="flip-down" data-aos-duration="1200" data-aos-offset="600">
           <div
               class="offset-xl-5 offset-lg-5 offset-md-5 offset-sm-6 offset-5 pl-xl-5 pl-lg-5 pl-md-7 col-xl-7 col-lg-7 col-md-7 col-sm-10 col-10 py-lg-0 py-md-0 py-sm-3">
-            <img src="/src/assets/WatDoetHet/arrow_to_left.webp" alt="Arrow left" class="arrow_communication">
+            <img src="/src/assets/WatDoetHet/arrow_to_left.png" alt="Arrow left" class="arrow_communication">
           </div>
         </div>
 

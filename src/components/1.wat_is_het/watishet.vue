@@ -225,7 +225,7 @@ export default {
   }
 
   #bg_wave {
-    background: url("/src/assets/WatIsHet/wave_under_header_v3.webp") no-repeat;
+    background: url("/src/assets/WatIsHet/wave_under_header_v3.png") no-repeat;
     background-size: cover;
     margin: 0;
     padding: 0;

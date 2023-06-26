@@ -16,7 +16,8 @@
             class="col-xl-2 col-lg-2 offset-md-0 col-md-3 offset-sm-0 col-sm-3  d-xl-block d-lg-block d-md-block d-sm-none d-none"
             data-aos="zoom-in" data-aos-duration="1200" data-aos-offset="1200">
           <!--          <a href="https://optin.social/graduaatsproef" target="_blank">-->
-          <img :src="imagePath+qr" id="qr" :alt="qr">
+<!--          <img :src="imagePath+qr" id="qr" :alt="qr">-->
+          <img src="/src/assets/TestHetZelf/qrcode_testSms.webp" id="qr" alt="qrcode_testSms">
           <!--          </a>-->
         </div>
         <div

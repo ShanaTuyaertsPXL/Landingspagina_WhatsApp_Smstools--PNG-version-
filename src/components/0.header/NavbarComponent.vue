@@ -1,6 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg justify-content-center" id="navbar_styling">
-    <a class="navbar-brand mr-auto" :href="navbar.linkBrand"><img :src="imagePath + navbar.brand" :alt="navbar.alt"></a>
+<!--    <a class="navbar-brand mr-auto" :href="navbar.linkBrand"><img :src="imagePath + navbar.brand" :alt="navbar.alt"></a>-->
+    <a class="navbar-brand mr-auto" href=""><img src="/src/assets/Smstools-Dark.webp" alt="navbar alt"></a>
     <button class="navbar-toggler" @click="toggleMenu" :class="{ 'collapsed': menuCollapsed }" type="button"
             data-toggle="collapse" data-target="#navbarText" aria-controls="navbarNav" aria-expanded="false"
             aria-label="Toggle navigation">

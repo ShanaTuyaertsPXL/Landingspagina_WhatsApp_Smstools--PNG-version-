@@ -19,7 +19,8 @@
             <div
                 class="offset-xl-0 offset-lg-0 offset-md-2 offset-sm-1 offset-1 col-xl-5 col-lg-6 col-md-10 col-sm-10 col-10  mb-xl-0 mb-lg-0 mb-md-5 mb-sm-4 mb-4    order-xl-2 order-lg-2 order-md-1 order-sm-1 order-1"
                 data-aos="fade-left" data-aos-duration="1200" data-aos-offset="400">
-              <img :src="imagePath + WatIsHet.verbindWhatsapp.image" :alt="WatIsHet.verbindWhatsapp.image"/>
+<!--              <img :src="imagePath + WatIsHet.verbindWhatsapp.image" :alt="WatIsHet.verbindWhatsapp.image"/>-->
+              <img src="/src/assets/WatIsHet/Whatsapp-verbinden-498x476.webp" alt="WatIsHet verbindWhatsapp image">
             </div>
           </div>
         </div>
@@ -43,7 +44,8 @@
         <div
             class="offset-xl-0 offset-lg-0 offset-md-2 offset-sm-2 offset-2 col-xl-6 col-lg-5 col-md-10 col-sm-10 col-10  mb-xl-0 mb-lg-0 mb-md-5 mb-sm-4 mb-4    order-xl-1 order-lg-1 order-md-1 order-sm-1 order-1"
             data-aos="fade-right" data-aos-duration="1200" data-aos-offset="450">
-          <img :src="imagePath+WatIsHet.whatsappIntegratie.image" :alt="WatIsHet.whatsappIntegratie.image">
+<!--          <img :src="imagePath+WatIsHet.whatsappIntegratie.image" :alt="WatIsHet.whatsappIntegratie.image">-->
+          <img src="/src/assets/WatIsHet/Whatsapp-integreer-997x626.webp" alt="WatIsHet whatsappIntegratie image">
         </div>
 
         <div
@@ -76,7 +78,8 @@
         <div
             class="offset-xl-0 col-xl-5 offset-lg-0 col-lg-5 offset-md-2 col-md-10 offset-sm-2 col-sm-8 offset-0 col-6 my-xl-5 mt-lg-5 pt-lg-5"
             data-aos="fade-right" data-aos-duration="1200" data-aos-offset="250">
-          <img :src="imagePath + WatIsHet.imgPosib" :alt="WatIsHet.imgPosib">
+<!--          <img :src="imagePath + WatIsHet.imgPosib" :alt="WatIsHet.imgPosib">-->
+          <img src="/src/assets/WatIsHet/Mogelijkheden.webp" alt="WatIsHet imgPosib">
           <!--ATTRIBUTES-->
           <!--MOBILE-->
           <!--<a href="https://www.freepik.com/free-psd/nature-mobile-phone-screen-mockup_3993618.htm#query=phone%20mockuo&position=10&from_view=search&track=ais">Image by rawpixel.com</a> on Freepik-->

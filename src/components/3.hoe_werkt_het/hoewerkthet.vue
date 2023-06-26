@@ -9,7 +9,8 @@
         <div class="row">
           <div
               class="offset-xl-0 col-xl-5 offset-lg-0 col-lg-5 offset-md-1 col-md-7 offset-sm-1 col-sm-8 offset-1 col-8 mt-xl-5 pl-xl-0 pl-lg-0 pr-xl-5 pr-lg-5 mt-md-0 p-0 pl-md-5" data-aos="fade-right" data-aos-duration="1200" data-aos-ffset="1200">
-            <img :src="imagePath + HoeWerktHet.image" :alt="HoeWerktHet.image">
+<!--            <img :src="imagePath + HoeWerktHet.image" :alt="HoeWerktHet.image">-->
+            <img src="/src/assets/HoeWerktHet/combineer_software.webp" alt="HoeWerktHet image">
             <!--ATTRIBUTE-->
               <!--MOBILE-->
               <!--<a href="https://www.freepik.com/free-psd/woman-using-smartphone_2733711.htm#query=phone%20mockup&position=11&from_view=search&track=ais">Image by rawpixel.com</a> on Freepik-->

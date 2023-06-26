@@ -43,8 +43,8 @@
         <div class="row my-0">
           <div
               class="col-xl-5 col-lg-5 col-md-5 offset-sm-1 offset-1 ml-xl-0 ml-lg-0 ml-md-0 ml-sm-5 pl-sm-5 col-sm-10 col-10 py-xl-3 py-lg-3 py-md-3 py-sm-0 py-0 my-sm-4 mt-4 order-xl-1 order-lg-1 order-md-1 order-sm-1 order-1" data-aos="fade-right" data-aos-duration="1200" data-aos-offset="200">
-            <img :src="imagePath + WatDoetHet.communicatieVerbeteren[1].image"
-                 :alt="WatDoetHet.communicatieVerbeteren[1].image" class="info">
+<!--            <img :src="imagePath + WatDoetHet.communicatieVerbeteren[1].image" :alt="WatDoetHet.communicatieVerbeteren[1].image" class="info">-->
+            <img src="/src/assets/WatDoetHet/directe_efficiënte_communicatie.webp" alt="WatDoetHet communicatieVerbeteren image" class="info">
           </div>
 
           <!--ATTRIBUTES-->
@@ -88,8 +88,8 @@
           </div>
           <div
               class="col-xl-5 col-lg-5 col-md-5 offset-sm-1 offset-1 ml-xl-0 ml-lg-0 ml-md-0 ml-sm-5 pl-sm-5 col-sm-10 col-10 py-xl-3 py-lg-3 py-md-3 py-sm-0 py-0 my-sm-4 mt-4 order-xl-1 order-lg-1 order-md-1 order-sm-1 order-1" data-aos="fade-left" data-aos-duration="1200" data-aos-offset="450">
-            <img :src="imagePath + WatDoetHet.communicatieVerbeteren[2].image"
-                 :alt="WatDoetHet.communicatieVerbeteren[2].image" class="info">
+<!--            <img :src="imagePath + WatDoetHet.communicatieVerbeteren[2].image" :alt="WatDoetHet.communicatieVerbeteren[2].image" class="info">-->
+            <img src="/src/assets/WatDoetHet/verbeterde-samenwerking__teamwork.webp" alt="WatDoetHet communicatieVerbeteren image 2" class="info">
             <!--ATTRIBUTES-->
               <!--TABLET-->
               <!--<a href="https://www.freepik.com/free-psd/woman-using-digital-tablet-car_2566712.htm#query=location&position=11&from_view=search&track=sph">Image by rawpixel.com</a> on Freepik&lt;!&ndash;-->
@@ -110,8 +110,8 @@
 
           <div
               class="col-xl-5 col-lg-5 col-md-5 offset-sm-1 offset-1 ml-xl-0 ml-lg-0 ml-md-0 ml-sm-5 pl-sm-5 col-sm-10 col-10 py-xl-3 py-lg-3 py-md-3 py-sm-0 py-0 my-sm-4 mt-4 order-xl-1 order-lg-1 order-md-1 order-sm-1 order-1"  data-aos="fade-right" data-aos-duration="1200" data-aos-offset="600">
-            <img :src="imagePath + WatDoetHet.communicatieVerbeteren[3].image"
-                 :alt="WatDoetHet.communicatieVerbeteren[3].image" class="info">
+<!--            <img :src="imagePath + WatDoetHet.communicatieVerbeteren[3].image" :alt="WatDoetHet.communicatieVerbeteren[3].image" class="info">-->
+            <img src="/src/assets/WatDoetHet/flexibele_communicatie_ongeacht_locatie.webp" alt="WatDoetHet communicatieVerbeteren image 3" class="info">
           </div>
           <div
               class="col-xl-7 col-lg-7 col-md-7 pt-xl-5 pl-xl-5 pt-lg-5 mt-xl-5 mt-lg-5 mt-md-5 my-sm-0 my-0 order-xl-2 order-lg-2 order-md-2 order-sm-2 order-2" data-aos="fade-left" data-aos-duration="1200" data-aos-offset="600">

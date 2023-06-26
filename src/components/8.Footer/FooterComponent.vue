@@ -3,7 +3,8 @@
     <div class="container-xl pb-5">
       <div class="row">
         <div class="col">
-          <img :src="imagePath + footer.brand" alt="Logo Smstools grey footer">
+<!--          <img :src="imagePath + footer.brand" alt="Logo Smstools grey footer">-->
+          <img src="/src/assets/Footer/Smstools-Grey.webp" alt="Logo Smstools grey footer">
         </div>
       </div>
 

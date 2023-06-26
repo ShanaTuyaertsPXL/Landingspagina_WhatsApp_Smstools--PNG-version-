@@ -15,8 +15,10 @@
       </div>
       <div
           class="offset-xl-0 col-xl-6 offset-lg-0 col-lg-6 offset-md-0  pl-xl-0 pl-lg-0  d-xl-block d-lg-block d-md-none d-sm-none d-none">
-        <img :src="imagePath + header.logo" :alt="header.logo" id="whatsapp-logo">
-        <img :src="imagePath + header.shadow" :alt="header.shadow" id="shadow">
+<!--        <img :src="imagePath + header.logo" :alt="header.logo" id="whatsapp-logo">-->
+        <img src="/src/assets/WhatsApp_model.png" alt="header logo" id="whatsapp-logo">
+<!--        <img :src="imagePath + header.shadow" :alt="header.shadow" id="shadow">-->
+        <img src="/src/assets/WhatsApp_model_shadow.webp" alt="header shadow" id="shadow">
       </div>
     </div>
   </div>
@@ -101,7 +103,7 @@ $FontSizeParagraphMobile: 1rem;
   height: 100vh;
   width: 100%;
   overflow: hidden;
-  background: url("src/assets/Header/wavy_form.png") no-repeat bottom;
+  background: url("/src/assets/Header/wavy_form.png") no-repeat bottom;
   background-size: cover;
 
   h1 {

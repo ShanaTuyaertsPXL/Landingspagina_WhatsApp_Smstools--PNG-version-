@@ -1,7 +1,7 @@
 <template>
-  <Navbar/>
+<!--  <Navbar/>-->
   <HomePageView/>
-  <Footer/>
+<!--  <Footer/>-->
 </template>
 
 <script>

@@ -1,12 +1,12 @@
 <template>
-<!--    <HeaderComponent/>-->
-<!--    <WatIsHet/>-->
+    <HeaderComponent/>
+    <WatIsHet/>
     <WatDoetHet/>
-<!--    <HoeWerktHet/>-->
-<!--    <Voorwaarden/>-->
-<!--  <TestHetZelf/>-->
+    <HoeWerktHet/>
+    <Voorwaarden/>
+  <TestHetZelf/>
 <!--    <UseCases />-->
-<!--  <contact/>-->
+  <contact/>
 
 </template>
 
@@ -14,23 +14,23 @@
 // import HeaderComponent from "./0.header/HeaderComponent.vue";
 // import WatIsHet from "./1.wat_is_het/watishet.vue";
 import WatDoetHet from "./2.wat_doet_het/watdoethet.vue";
-// import HoeWerktHet from "./3.hoe_werkt_het/hoewerkthet.vue";
-// import Voorwaarden from "./4.voorwaarden/voorwaarden.vue";
-// import TestHetZelf from "./5.test_het_zelf/TestHetZelf.vue";
+import HoeWerktHet from "./3.hoe_werkt_het/hoewerkthet.vue";
+import Voorwaarden from "./4.voorwaarden/voorwaarden.vue";
+import TestHetZelf from "./5.test_het_zelf/TestHetZelf.vue";
 // import UseCases from "./UseCases.vue";
-// import Contact from "./7.Contact/contact.vue";
+import Contact from "./7.Contact/contact.vue";
 
 export default {
   name: "HomePageView",
   components: {
-    // HeaderComponent,
-    // WatIsHet,
+    HeaderComponent,
+    WatIsHet,
     WatDoetHet,
-    // HoeWerktHet,
-    // Voorwaarden,
-    // TestHetZelf,
+    HoeWerktHet,
+    Voorwaarden,
+    TestHetZelf,
     // UseCases,
-    // Contact,
+    Contact,
   },
   created() {
     window.addEventListener('scroll', this.handleScroll);

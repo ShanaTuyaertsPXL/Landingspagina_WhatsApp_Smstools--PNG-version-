@@ -582,7 +582,7 @@ p {
   }
 
   #wave_contact {
-    background: url("src/assets/Contact/Wave_contact.webp") no-repeat;
+    background: url("/src/assets/Contact/Wave_contact.webp") no-repeat;
     background-size: cover;
     margin: 0;
     padding: 0;

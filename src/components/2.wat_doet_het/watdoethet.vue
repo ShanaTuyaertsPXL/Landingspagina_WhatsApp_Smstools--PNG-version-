@@ -139,19 +139,57 @@
 
 
         <!--        <div class="container">-->
-        <div class="row mb-5 " v-for="(item,index) in WatDoetHet.software" :key="item.id">
+        <div class="row mb-5 ">
 
-          <div
-              class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5"
-              :class="{'left': index % 2 === 1, 'right': index % 2 === 0 }" :data-aos="item.aosImg" :data-aos-duration="item.duration" data-aos-offset="600">
-            <img :src="imagePath + item.image" :alt="item.image">
+          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" :data-aos="item.aosImg" :data-aos-duration="item.duration" data-aos-offset="600">
+            <!--            <img :src="imagePath + item.image" :alt="item.image">-->
+            <img src="/src/assets/WatDoetHet/img-notis.webp" alt="Notis image">
           </div>
           <div
-              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp"
-              :class="{'right': index % 2 === 1, 'left': index % 2 === 0 }" :data-aos="item.aosTxt" :data-aos-duration="item.duration" data-aos-offset="600">
-            <i :class="item.icon"></i>
-            <h3 class="mb-3">{{ item.title }}</h3>
-            <p v-html="item.description.replace(/(\n)/g, '<br />')"></p>
+              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" :data-aos-duration="item.duration" data-aos-offset="600">
+            <!--            <i :class="item.icon"></i>-->
+            <i class="bi bi-bell"></i>
+            <h3 class="mb-3">Realtime notificaties voor uw klanten</h3>
+            <p>Houd klanten op de hoogte met realtime meldingen voor boekingsbevestigingen, bezorging waarschuwingen en service herinneringen.</p>
+            <p>Onze software maakt het mogelijk om chatberichten te verzenden en ontvangen, waardoor u constant in contact kunt blijven met uw klanten, ongeacht hun locatie. Dankzij onze software kunt u een optimale chatervaring bieden aan uw klanten, waarbij ze gemakkelijk met u kunnen communiceren en hun vragen en behoeften kunnen uiten.
+              Met realtime notificaties kunt u direct reageren en waardevolle interacties aangaan, waardoor u de tevredenheid en loyaliteit van uw klanten kunt vergroten.</p>
+
+
+            <!--            </div>-->
+          </div>
+        </div>
+
+        <div class="row mb-5 ">
+
+          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" :data-aos="item.aosImg" :data-aos-duration="item.duration" data-aos-offset="600">
+            <!--            <img :src="imagePath + item.image" :alt="item.image">-->
+            <img src="/src/assets/WatDoetHet/img-stimuleer_verkoop.webp" alt="Stimuleer verkoop image">
+          </div>
+          <div
+              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" :data-aos-duration="item.duration" data-aos-offset="600">
+            <!--            <i :class="item.icon"></i>-->
+            <i class="bi bi-rocket-takeoff"></i>
+            <h3 class="mb-3">Stimuleer uw verkoop dankzij WhatsApp Conversies</h3>
+            <p>Met onze geavanceerde software kunt u direct contact leggen met uw klanten via WhatsApp, waardoor u gepersonaliseerde communicatie kunt bieden die de verkoop bevordert.</p>
+            <p>Profiteer van functies zoals het versturen van afbeeldingen, video's en documenten om uw producten visueel aantrekkelijk te presenteren. Geautomatiseerde berichten en autoresponders zorgen voor snelle respons en een optimale klantenservice-ervaring. Met WhatsApp Conversies kunt u de effectiviteit van uw marketing meten en optimaliseren. Bereik uw klanten op een directe en persoonlijke manier, en creëer een positieve koopervaring die leidt tot groei en succes voor uw bedrijf.</p>
+
+
+            <!--            </div>-->
+          </div>
+        </div>
+
+        <div class="row mb-5 ">
+
+          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" :data-aos="item.aosImg" :data-aos-duration="item.duration" data-aos-offset="600">
+            <!--            <img :src="imagePath + item.image" :alt="item.image">-->
+            <img src="/src/assets/WatDoetHet/img-support_communicatie.webp" alt="Support Communicatie image">
+          </div>
+          <div
+              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" :data-aos-duration="item.duration" data-aos-offset="600">
+            <!--            <i :class="item.icon"></i>-->
+            <i class="bi bi-headset"></i>
+            <h3 class="mb-3">Reageer rechtstreeks op vragen van klanten via onze software</h3>
+            <p>Verbeter uw klantenservice door direct in te gaan op vragen van klanten via onze gebruiksvriendelijke software. Creëer een uitstekende klantervaring door gerichte en effectieve antwoorden te bieden en versterk zo de band met uw klanten.</p>
 
 
             <!--            </div>-->

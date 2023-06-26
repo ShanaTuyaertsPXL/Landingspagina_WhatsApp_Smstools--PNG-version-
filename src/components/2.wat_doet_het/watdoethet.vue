@@ -145,12 +145,12 @@
         <!--        <div class="container">-->
         <div class="row mb-5 ">
 
-          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" :data-aos="item.aosImg" :data-aos-duration="item.duration" data-aos-offset="600">
+          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" data-aos="fade-up" data-aos-duration="1200" data-aos-offset="600">
             <!--            <img :src="imagePath + item.image" :alt="item.image">-->
             <img src="/src/assets/WatDoetHet/img-notis.webp" alt="Notis image">
           </div>
           <div
-              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" :data-aos-duration="item.duration" data-aos-offset="600">
+              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" data-aos="fade-up" data-aos-duration="1200" data-aos-offset="600">
             <!--            <i :class="item.icon"></i>-->
             <i class="bi bi-bell"></i>
             <h3 class="mb-3">Realtime notificaties voor uw klanten</h3>
@@ -165,12 +165,12 @@
 
         <div class="row mb-5 ">
 
-          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" :data-aos="item.aosImg" :data-aos-duration="item.duration" data-aos-offset="600">
+          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" data-aos="fade-up" data-aos-duration="1200" data-aos-offset="600">
             <!--            <img :src="imagePath + item.image" :alt="item.image">-->
             <img src="/src/assets/WatDoetHet/img-stimuleer_verkoop.webp" alt="Stimuleer verkoop image">
           </div>
           <div
-              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" :data-aos-duration="item.duration" data-aos-offset="600">
+              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" data-aos="fade-up" data-aos-duration="1200" data-aos-offset="600">
             <!--            <i :class="item.icon"></i>-->
             <i class="bi bi-rocket-takeoff"></i>
             <h3 class="mb-3">Stimuleer uw verkoop dankzij WhatsApp Conversies</h3>
@@ -184,12 +184,12 @@
 
         <div class="row mb-5 ">
 
-          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" :data-aos="item.aosImg" :data-aos-duration="item.duration" data-aos-offset="600">
+          <div class="offset-xl-0 offset-lg-0 offset-md-3 offset-sm-2 offset-1 col-xl-5 col-lg-5 col-md-8 col-sm-7 col-8 py-xl-0 pt-lg-5 pb-lg-0 py-md-5 py-sm-5 py-5" data-aos="fade-up" data-aos-duration="1200" data-aos-offset="600">
             <!--            <img :src="imagePath + item.image" :alt="item.image">-->
             <img src="/src/assets/WatDoetHet/img-support_communicatie.webp" alt="Support Communicatie image">
           </div>
           <div
-              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" :data-aos-duration="item.duration" data-aos-offset="600">
+              class="offset-xl-0 offset-lg-0 offset-md-1 offset-sm-1 offset-1 col-xl-7 col-lg-7 col-md-10 col-sm-10 col-10 image_info_whatsapp" data-aos="fade-up" data-aos-duration="1200" data-aos-offset="600">
             <!--            <i :class="item.icon"></i>-->
             <i class="bi bi-headset"></i>
             <h3 class="mb-3">Reageer rechtstreeks op vragen van klanten via onze software</h3>
